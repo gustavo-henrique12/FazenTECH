@@ -1,0 +1,26 @@
+    .conteudo{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+
+    .center{
+         display: flex;
+         align-items: center;
+         flex-direction: column;
+    }
+    .sucess{
+        color:#8257e5;
+    }
+
+    .field{
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px;}
+
+    .field:hover{
+        color: #8257e5;
+        background-color: #8257e5;
+    }

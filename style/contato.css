@@ -1,0 +1,36 @@
+.content{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.contato{
+    width: 100%;
+    max-width: 500px;
+    justify-content: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.field{
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px;
+}
+
+textarea{
+    height: 150px;
+}
+input:hover{
+    background-color: #8257e5;
+}
+
+.titulo{
+    font-size: 35px;
+    color: #8257e5;
+    display: flex;
+    justify-content: center;
+}
